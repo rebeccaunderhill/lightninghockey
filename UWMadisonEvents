@@ -1,0 +1,1726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <Items>
+      <Event>
+        <EventCode>610497</EventCode>
+        <EventName>Learn to Skate</EventName>
+        <EventDescription>Learn to Skate</EventDescription>
+        <EventType>31</EventType>
+        <MeetingCode>610497</MeetingCode>
+        <MeetingName>Learn to Skate</MeetingName>
+        <MeetingDesription>Learn to Skate</MeetingDesription>
+        <GroupCode>13</GroupCode>
+        <GroupName>Rec Well</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>61866</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T20:30:00Z</StartDateTime>
+        <EndDateTime>2020-09-08T21:45:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>CRSC-Ice</BuildingCode>
+        <SecondaryBuildingCode>15</SecondaryBuildingCode>
+        <BuildingName>Camp Randall Sports Center-Ice Arena</BuildingName>
+        <LevelCode>(none)</LevelCode>
+        <LevelName>(none)</LevelName>
+        <RoomCode>Ice Arena</RoomCode>
+        <SecondaryRoomCode>178</SecondaryRoomCode>
+        <RoomName>Ice Arena</RoomName>
+        <RoomType>Ice Rink</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>609482</EventCode>
+        <EventName>Open Rec Stick and Puck</EventName>
+        <EventDescription>Open Rec Stick and Puck</EventDescription>
+        <EventType>28</EventType>
+        <MeetingCode>609482</MeetingCode>
+        <MeetingName>Open Rec Stick and Puck</MeetingName>
+        <MeetingDesription>Open Rec Stick and Puck</MeetingDesription>
+        <GroupCode>13</GroupCode>
+        <GroupName>Rec Well</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>61730</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T16:00:00Z</StartDateTime>
+        <EndDateTime>2020-09-08T19:00:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>CRSC-Ice</BuildingCode>
+        <SecondaryBuildingCode>15</SecondaryBuildingCode>
+        <BuildingName>Camp Randall Sports Center-Ice Arena</BuildingName>
+        <LevelCode>(none)</LevelCode>
+        <LevelName>(none)</LevelName>
+        <RoomCode>Ice Arena</RoomCode>
+        <SecondaryRoomCode>178</SecondaryRoomCode>
+        <RoomName>Ice Arena</RoomName>
+        <RoomType>Ice Rink</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>610552</EventCode>
+        <EventName>WHKY A Team Practice</EventName>
+        <EventDescription>WHKY A Team Practice</EventDescription>
+        <EventType>29</EventType>
+        <MeetingCode>610552</MeetingCode>
+        <MeetingName>WHKY A Team Practice</MeetingName>
+        <MeetingDesription>WHKY A Team Practice</MeetingDesription>
+        <GroupCode>67</GroupCode>
+        <GroupName>RW Sport Club - Women's Hockey</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>61867</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T23:15:00Z</StartDateTime>
+        <EndDateTime>2020-09-09T00:15:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>CRSC-Ice</BuildingCode>
+        <SecondaryBuildingCode>15</SecondaryBuildingCode>
+        <BuildingName>Camp Randall Sports Center-Ice Arena</BuildingName>
+        <LevelCode>(none)</LevelCode>
+        <LevelName>(none)</LevelName>
+        <RoomCode>Ice Arena</RoomCode>
+        <SecondaryRoomCode>178</SecondaryRoomCode>
+        <RoomName>Ice Arena</RoomName>
+        <RoomType>Ice Rink</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>610640</EventCode>
+        <EventName>MHKY Practice</EventName>
+        <EventDescription>MHKY Practice</EventDescription>
+        <EventType>29</EventType>
+        <MeetingCode>610640</MeetingCode>
+        <MeetingName>MHKY Practice</MeetingName>
+        <MeetingDesription>MHKY Practice</MeetingDesription>
+        <GroupCode>143</GroupCode>
+        <GroupName>RW Sport Club - Mens Hockey</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>61892</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T22:00:00Z</StartDateTime>
+        <EndDateTime>2020-09-08T23:00:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>CRSC-Ice</BuildingCode>
+        <SecondaryBuildingCode>15</SecondaryBuildingCode>
+        <BuildingName>Camp Randall Sports Center-Ice Arena</BuildingName>
+        <LevelCode>(none)</LevelCode>
+        <LevelName>(none)</LevelName>
+        <RoomCode>Ice Arena</RoomCode>
+        <SecondaryRoomCode>178</SecondaryRoomCode>
+        <RoomName>Ice Arena</RoomName>
+        <RoomType>Ice Rink</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>609184</EventCode>
+        <EventName>Closed for Maintenance</EventName>
+        <EventDescription>Closed for Maintenance</EventDescription>
+        <EventType>3</EventType>
+        <MeetingCode>609184</MeetingCode>
+        <MeetingName>Closed for Maintenance</MeetingName>
+        <MeetingDesription>Closed for Maintenance</MeetingDesription>
+        <GroupCode>13</GroupCode>
+        <GroupName>Rec Well</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>61714</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>16</Status>
+        <StatusType>-14</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T05:00:00Z</StartDateTime>
+        <EndDateTime>2020-09-09T05:00:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>Near East</BuildingCode>
+        <SecondaryBuildingCode>8</SecondaryBuildingCode>
+        <BuildingName>Near East</BuildingName>
+        <LevelCode>(none)</LevelCode>
+        <LevelName>(none)</LevelName>
+        <RoomCode>Near</RoomCode>
+        <SecondaryRoomCode>477</SecondaryRoomCode>
+        <RoomName>Near Near East</RoomName>
+        <RoomType>(none)</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>602709</EventCode>
+        <EventName>Athletics Swim &amp; Dive Practices</EventName>
+        <EventDescription>Athletics Swim &amp; Dive Practices</EventDescription>
+        <EventType>29</EventType>
+        <MeetingCode>602709</MeetingCode>
+        <MeetingName>Athletics Swim &amp; Dive Practices</MeetingName>
+        <MeetingDesription>Athletics Swim &amp; Dive Practices</MeetingDesription>
+        <GroupCode>301</GroupCode>
+        <GroupName>Athletics</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>61346</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T11:00:00Z</StartDateTime>
+        <EndDateTime>2020-09-08T16:00:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>NICK</BuildingCode>
+        <SecondaryBuildingCode>40</SecondaryBuildingCode>
+        <BuildingName>Nicholas Recreation Center</BuildingName>
+        <LevelCode>Nick Level 1</LevelCode>
+        <LevelName>Nick Level 1</LevelName>
+        <RoomCode>140 - Dry</RoomCode>
+        <SecondaryRoomCode>595</SecondaryRoomCode>
+        <RoomName>Aquatic Center Dryland Training</RoomName>
+        <RoomType>Fitness</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>603438</EventCode>
+        <EventName>Athletics Swim &amp; Dive Practices</EventName>
+        <EventDescription>Athletics Swim &amp; Dive Practices</EventDescription>
+        <EventType>29</EventType>
+        <MeetingCode>603438</MeetingCode>
+        <MeetingName>Athletics Swim &amp; Dive Practices</MeetingName>
+        <MeetingDesription>Athletics Swim &amp; Dive Practices</MeetingDesription>
+        <GroupCode>301</GroupCode>
+        <GroupName>Athletics</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>61346</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T19:00:00Z</StartDateTime>
+        <EndDateTime>2020-09-08T22:00:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>NICK</BuildingCode>
+        <SecondaryBuildingCode>40</SecondaryBuildingCode>
+        <BuildingName>Nicholas Recreation Center</BuildingName>
+        <LevelCode>Nick Level 1</LevelCode>
+        <LevelName>Nick Level 1</LevelName>
+        <RoomCode>140 - Dry</RoomCode>
+        <SecondaryRoomCode>595</SecondaryRoomCode>
+        <RoomName>Aquatic Center Dryland Training</RoomName>
+        <RoomType>Fitness</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>612108</EventCode>
+        <EventName>Yoga</EventName>
+        <EventDescription>Yoga</EventDescription>
+        <EventType>12</EventType>
+        <MeetingCode>612108</MeetingCode>
+        <MeetingName>Yoga</MeetingName>
+        <MeetingDesription>Yoga</MeetingDesription>
+        <GroupCode>13</GroupCode>
+        <GroupName>Rec Well</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>62069</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T17:05:00Z</StartDateTime>
+        <EndDateTime>2020-09-08T17:50:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>NICK</BuildingCode>
+        <SecondaryBuildingCode>40</SecondaryBuildingCode>
+        <BuildingName>Nicholas Recreation Center</BuildingName>
+        <LevelCode>Nick Level 3</LevelCode>
+        <LevelName>Nick Level 3</LevelName>
+        <RoomCode>334</RoomCode>
+        <SecondaryRoomCode>611</SecondaryRoomCode>
+        <RoomName>Balance Studio</RoomName>
+        <RoomType>Studio</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>612632</EventCode>
+        <EventName>Yoga</EventName>
+        <EventDescription>Yoga</EventDescription>
+        <EventType>12</EventType>
+        <MeetingCode>612632</MeetingCode>
+        <MeetingName>Yoga</MeetingName>
+        <MeetingDesription>Yoga</MeetingDesription>
+        <GroupCode>13</GroupCode>
+        <GroupName>Rec Well</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>62069</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T23:15:00Z</StartDateTime>
+        <EndDateTime>2020-09-09T00:15:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>NICK</BuildingCode>
+        <SecondaryBuildingCode>40</SecondaryBuildingCode>
+        <BuildingName>Nicholas Recreation Center</BuildingName>
+        <LevelCode>Nick Level 3</LevelCode>
+        <LevelName>Nick Level 3</LevelName>
+        <RoomCode>334</RoomCode>
+        <SecondaryRoomCode>611</SecondaryRoomCode>
+        <RoomName>Balance Studio</RoomName>
+        <RoomType>Studio</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>614202</EventCode>
+        <EventName>HIIT</EventName>
+        <EventDescription>HIIT</EventDescription>
+        <EventType>12</EventType>
+        <MeetingCode>614202</MeetingCode>
+        <MeetingName>HIIT</MeetingName>
+        <MeetingDesription>HIIT</MeetingDesription>
+        <GroupCode>13</GroupCode>
+        <GroupName>Rec Well</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>62259</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T12:00:00Z</StartDateTime>
+        <EndDateTime>2020-09-08T12:45:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>NICK</BuildingCode>
+        <SecondaryBuildingCode>40</SecondaryBuildingCode>
+        <BuildingName>Nicholas Recreation Center</BuildingName>
+        <LevelCode>Nick Level 3</LevelCode>
+        <LevelName>Nick Level 3</LevelName>
+        <RoomCode>334</RoomCode>
+        <SecondaryRoomCode>611</SecondaryRoomCode>
+        <RoomName>Balance Studio</RoomName>
+        <RoomType>Studio</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>614217</EventCode>
+        <EventName>Zumba</EventName>
+        <EventDescription>Zumba</EventDescription>
+        <EventType>12</EventType>
+        <MeetingCode>614217</MeetingCode>
+        <MeetingName>Zumba</MeetingName>
+        <MeetingDesription>Zumba</MeetingDesription>
+        <GroupCode>13</GroupCode>
+        <GroupName>Rec Well</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>62259</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T17:05:00Z</StartDateTime>
+        <EndDateTime>2020-09-08T17:50:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>NICK</BuildingCode>
+        <SecondaryBuildingCode>40</SecondaryBuildingCode>
+        <BuildingName>Nicholas Recreation Center</BuildingName>
+        <LevelCode>Nick Level 3</LevelCode>
+        <LevelName>Nick Level 3</LevelName>
+        <RoomCode>334</RoomCode>
+        <SecondaryRoomCode>611</SecondaryRoomCode>
+        <RoomName>Balance Studio</RoomName>
+        <RoomType>Studio</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>614259</EventCode>
+        <EventName>Yoga for Stress Relief</EventName>
+        <EventDescription>Yoga for Stress Relief</EventDescription>
+        <EventType>12</EventType>
+        <MeetingCode>614259</MeetingCode>
+        <MeetingName>Yoga for Stress Relief</MeetingName>
+        <MeetingDesription>Yoga for Stress Relief</MeetingDesription>
+        <GroupCode>13</GroupCode>
+        <GroupName>Rec Well</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>62259</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T22:00:00Z</StartDateTime>
+        <EndDateTime>2020-09-08T23:00:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>NICK</BuildingCode>
+        <SecondaryBuildingCode>40</SecondaryBuildingCode>
+        <BuildingName>Nicholas Recreation Center</BuildingName>
+        <LevelCode>Nick Level 3</LevelCode>
+        <LevelName>Nick Level 3</LevelName>
+        <RoomCode>334</RoomCode>
+        <SecondaryRoomCode>611</SecondaryRoomCode>
+        <RoomName>Balance Studio</RoomName>
+        <RoomType>Studio</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>614274</EventCode>
+        <EventName>Zumba</EventName>
+        <EventDescription>Zumba</EventDescription>
+        <EventType>12</EventType>
+        <MeetingCode>614274</MeetingCode>
+        <MeetingName>Zumba</MeetingName>
+        <MeetingDesription>Zumba</MeetingDesription>
+        <GroupCode>13</GroupCode>
+        <GroupName>Rec Well</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>62259</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T23:15:00Z</StartDateTime>
+        <EndDateTime>2020-09-09T00:15:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>NICK</BuildingCode>
+        <SecondaryBuildingCode>40</SecondaryBuildingCode>
+        <BuildingName>Nicholas Recreation Center</BuildingName>
+        <LevelCode>Nick Level 3</LevelCode>
+        <LevelName>Nick Level 3</LevelName>
+        <RoomCode>334</RoomCode>
+        <SecondaryRoomCode>611</SecondaryRoomCode>
+        <RoomName>Balance Studio</RoomName>
+        <RoomType>Studio</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>614289</EventCode>
+        <EventName>Barre</EventName>
+        <EventDescription>Barre</EventDescription>
+        <EventType>12</EventType>
+        <MeetingCode>614289</MeetingCode>
+        <MeetingName>Barre</MeetingName>
+        <MeetingDesription>Barre</MeetingDesription>
+        <GroupCode>13</GroupCode>
+        <GroupName>Rec Well</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>62259</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-09T00:30:00Z</StartDateTime>
+        <EndDateTime>2020-09-09T01:30:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>NICK</BuildingCode>
+        <SecondaryBuildingCode>40</SecondaryBuildingCode>
+        <BuildingName>Nicholas Recreation Center</BuildingName>
+        <LevelCode>Nick Level 3</LevelCode>
+        <LevelName>Nick Level 3</LevelName>
+        <RoomCode>334</RoomCode>
+        <SecondaryRoomCode>611</SecondaryRoomCode>
+        <RoomName>Balance Studio</RoomName>
+        <RoomType>Studio</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>614792</EventCode>
+        <EventName>ARC Adult and Pediatric FA/CPR/AED (RW Staff)</EventName>
+        <EventDescription>ARC Adult and Pediatric FA/CPR/AED (RW Staff)</EventDescription>
+        <EventType>1</EventType>
+        <MeetingCode>614792</MeetingCode>
+        <MeetingName>ARC Adult and Pediatric FA/CPR/AED (RW Staff)</MeetingName>
+        <MeetingDesription>ARC Adult and Pediatric FA/CPR/AED (RW Staff)</MeetingDesription>
+        <GroupCode>13</GroupCode>
+        <GroupName>Rec Well</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>62340</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>18</Status>
+        <StatusType>-14</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T22:45:00Z</StartDateTime>
+        <EndDateTime>2020-09-09T00:00:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>NICK</BuildingCode>
+        <SecondaryBuildingCode>40</SecondaryBuildingCode>
+        <BuildingName>Nicholas Recreation Center</BuildingName>
+        <LevelCode>Nick Lower Level</LevelCode>
+        <LevelName>Nick Lower Level</LevelName>
+        <RoomCode>LL163</RoomCode>
+        <SecondaryRoomCode>638</SecondaryRoomCode>
+        <RoomName>Classroom</RoomName>
+        <RoomType>Classroom</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>602133</EventCode>
+        <EventName>Kines 373</EventName>
+        <EventDescription>Kines 373</EventDescription>
+        <EventType>9</EventType>
+        <MeetingCode>602133</MeetingCode>
+        <MeetingName>Kines 373</MeetingName>
+        <MeetingDesription>Kines 373</MeetingDesription>
+        <GroupCode>5</GroupCode>
+        <GroupName>Kinesiology</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>61057</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T12:45:00Z</StartDateTime>
+        <EndDateTime>2020-09-08T14:45:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>NICK</BuildingCode>
+        <SecondaryBuildingCode>40</SecondaryBuildingCode>
+        <BuildingName>Nicholas Recreation Center</BuildingName>
+        <LevelCode>Nick Level 1</LevelCode>
+        <LevelName>Nick Level 1</LevelName>
+        <RoomCode>118 - 2</RoomCode>
+        <SecondaryRoomCode>590</SecondaryRoomCode>
+        <RoomName>Court 2</RoomName>
+        <RoomType>Court (Indoor)</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>602061</EventCode>
+        <EventName>Kines 325</EventName>
+        <EventDescription>Kines 325</EventDescription>
+        <EventType>9</EventType>
+        <MeetingCode>602061</MeetingCode>
+        <MeetingName>Kines 325</MeetingName>
+        <MeetingDesription>Kines 325</MeetingDesription>
+        <GroupCode>5</GroupCode>
+        <GroupName>Kinesiology</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>61057</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T14:55:00Z</StartDateTime>
+        <EndDateTime>2020-09-08T16:35:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>NICK</BuildingCode>
+        <SecondaryBuildingCode>40</SecondaryBuildingCode>
+        <BuildingName>Nicholas Recreation Center</BuildingName>
+        <LevelCode>Nick Level 3</LevelCode>
+        <LevelName>Nick Level 3</LevelName>
+        <RoomCode>350 - 3</RoomCode>
+        <SecondaryRoomCode>613</SecondaryRoomCode>
+        <RoomName>Court 3</RoomName>
+        <RoomType>Court (Indoor)</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>611440</EventCode>
+        <EventName>Kines 325</EventName>
+        <EventDescription>Kines 325</EventDescription>
+        <EventType>9</EventType>
+        <MeetingCode>611440</MeetingCode>
+        <MeetingName>Kines 325</MeetingName>
+        <MeetingDesription>Kines 325</MeetingDesription>
+        <GroupCode>5</GroupCode>
+        <GroupName>Kinesiology</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>61057</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T14:55:00Z</StartDateTime>
+        <EndDateTime>2020-09-08T16:35:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>NICK</BuildingCode>
+        <SecondaryBuildingCode>40</SecondaryBuildingCode>
+        <BuildingName>Nicholas Recreation Center</BuildingName>
+        <LevelCode>Nick Level 3</LevelCode>
+        <LevelName>Nick Level 3</LevelName>
+        <RoomCode>350 - 4</RoomCode>
+        <SecondaryRoomCode>614</SecondaryRoomCode>
+        <RoomName>Court 4</RoomName>
+        <RoomType>Court (Indoor)</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>610078</EventCode>
+        <EventName>Soccer Field Clinic</EventName>
+        <EventDescription>Soccer Field Clinic</EventDescription>
+        <EventType>1</EventType>
+        <MeetingCode>610078</MeetingCode>
+        <MeetingName>Soccer Field Clinic</MeetingName>
+        <MeetingDesription>Soccer Field Clinic</MeetingDesription>
+        <GroupCode>13</GroupCode>
+        <GroupName>Rec Well</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>61754</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-09T00:00:00Z</StartDateTime>
+        <EndDateTime>2020-09-09T03:00:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>NICK</BuildingCode>
+        <SecondaryBuildingCode>40</SecondaryBuildingCode>
+        <BuildingName>Nicholas Recreation Center</BuildingName>
+        <LevelCode>Nick Level 1</LevelCode>
+        <LevelName>Nick Level 1</LevelName>
+        <RoomCode>118</RoomCode>
+        <SecondaryRoomCode>588</SecondaryRoomCode>
+        <RoomName>Courts 1 - 2</RoomName>
+        <RoomType>Court (Indoor)</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>611448</EventCode>
+        <EventName>Flu Shot Clinic (By Appointment Only)</EventName>
+        <EventDescription>Flu Shot Clinic (By Appointment Only)</EventDescription>
+        <EventType>7</EventType>
+        <MeetingCode>611448</MeetingCode>
+        <MeetingName>Flu Shot Clinic (By Appointment Only)</MeetingName>
+        <MeetingDesription>Flu Shot Clinic (By Appointment Only)</MeetingDesription>
+        <GroupCode>13</GroupCode>
+        <GroupName>Rec Well</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>62040</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>15</Status>
+        <StatusType>-14</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T14:00:00Z</StartDateTime>
+        <EndDateTime>2020-09-09T00:00:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>NICK</BuildingCode>
+        <SecondaryBuildingCode>40</SecondaryBuildingCode>
+        <BuildingName>Nicholas Recreation Center</BuildingName>
+        <LevelCode>Nick Level 1</LevelCode>
+        <LevelName>Nick Level 1</LevelName>
+        <RoomCode>118</RoomCode>
+        <SecondaryRoomCode>588</SecondaryRoomCode>
+        <RoomName>Courts 1 - 2</RoomName>
+        <RoomType>Court (Indoor)</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>602710</EventCode>
+        <EventName>Athletics Swim &amp; Dive Practices</EventName>
+        <EventDescription>Athletics Swim &amp; Dive Practices</EventDescription>
+        <EventType>29</EventType>
+        <MeetingCode>602710</MeetingCode>
+        <MeetingName>Athletics Swim &amp; Dive Practices</MeetingName>
+        <MeetingDesription>Athletics Swim &amp; Dive Practices</MeetingDesription>
+        <GroupCode>301</GroupCode>
+        <GroupName>Athletics</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>61346</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T11:00:00Z</StartDateTime>
+        <EndDateTime>2020-09-08T16:00:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>NICK</BuildingCode>
+        <SecondaryBuildingCode>40</SecondaryBuildingCode>
+        <BuildingName>Nicholas Recreation Center</BuildingName>
+        <LevelCode>Nick Lower Level</LevelCode>
+        <LevelName>Nick Lower Level</LevelName>
+        <RoomCode>LL155-Dive</RoomCode>
+        <SecondaryRoomCode>635</SecondaryRoomCode>
+        <RoomName>Diving Well</RoomName>
+        <RoomType>Pool</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>603439</EventCode>
+        <EventName>Athletics Swim &amp; Dive Practices</EventName>
+        <EventDescription>Athletics Swim &amp; Dive Practices</EventDescription>
+        <EventType>29</EventType>
+        <MeetingCode>603439</MeetingCode>
+        <MeetingName>Athletics Swim &amp; Dive Practices</MeetingName>
+        <MeetingDesription>Athletics Swim &amp; Dive Practices</MeetingDesription>
+        <GroupCode>301</GroupCode>
+        <GroupName>Athletics</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>61346</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T19:00:00Z</StartDateTime>
+        <EndDateTime>2020-09-08T22:00:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>NICK</BuildingCode>
+        <SecondaryBuildingCode>40</SecondaryBuildingCode>
+        <BuildingName>Nicholas Recreation Center</BuildingName>
+        <LevelCode>Nick Lower Level</LevelCode>
+        <LevelName>Nick Lower Level</LevelName>
+        <RoomCode>LL155-Dive</RoomCode>
+        <SecondaryRoomCode>635</SecondaryRoomCode>
+        <RoomName>Diving Well</RoomName>
+        <RoomType>Pool</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>611701</EventCode>
+        <EventName>HIIT</EventName>
+        <EventDescription>HIIT</EventDescription>
+        <EventType>12</EventType>
+        <MeetingCode>611701</MeetingCode>
+        <MeetingName>HIIT</MeetingName>
+        <MeetingDesription>HIIT</MeetingDesription>
+        <GroupCode>13</GroupCode>
+        <GroupName>Rec Well</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>62069</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T12:00:00Z</StartDateTime>
+        <EndDateTime>2020-09-08T12:45:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>SERF</BuildingCode>
+        <SecondaryBuildingCode>1</SecondaryBuildingCode>
+        <BuildingName>Southeast Recreational Facility</BuildingName>
+        <LevelCode>(none)</LevelCode>
+        <LevelName>(none)</LevelName>
+        <RoomCode>410</RoomCode>
+        <SecondaryRoomCode>35</SecondaryRoomCode>
+        <RoomName>Indoor Track 410</RoomName>
+        <RoomType>Track</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>611924</EventCode>
+        <EventName>Core Strength</EventName>
+        <EventDescription>Core Strength</EventDescription>
+        <EventType>12</EventType>
+        <MeetingCode>611924</MeetingCode>
+        <MeetingName>Core Strength</MeetingName>
+        <MeetingDesription>Core Strength</MeetingDesription>
+        <GroupCode>13</GroupCode>
+        <GroupName>Rec Well</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>62069</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T13:00:00Z</StartDateTime>
+        <EndDateTime>2020-09-08T13:30:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>SERF</BuildingCode>
+        <SecondaryBuildingCode>1</SecondaryBuildingCode>
+        <BuildingName>Southeast Recreational Facility</BuildingName>
+        <LevelCode>(none)</LevelCode>
+        <LevelName>(none)</LevelName>
+        <RoomCode>410</RoomCode>
+        <SecondaryRoomCode>35</SecondaryRoomCode>
+        <RoomName>Indoor Track 410</RoomName>
+        <RoomType>Track</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>611975</EventCode>
+        <EventName>Tabata</EventName>
+        <EventDescription>Tabata</EventDescription>
+        <EventType>12</EventType>
+        <MeetingCode>611975</MeetingCode>
+        <MeetingName>Tabata</MeetingName>
+        <MeetingDesription>Tabata</MeetingDesription>
+        <GroupCode>13</GroupCode>
+        <GroupName>Rec Well</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>62069</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T16:15:00Z</StartDateTime>
+        <EndDateTime>2020-09-08T16:45:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>SERF</BuildingCode>
+        <SecondaryBuildingCode>1</SecondaryBuildingCode>
+        <BuildingName>Southeast Recreational Facility</BuildingName>
+        <LevelCode>(none)</LevelCode>
+        <LevelName>(none)</LevelName>
+        <RoomCode>410</RoomCode>
+        <SecondaryRoomCode>35</SecondaryRoomCode>
+        <RoomName>Indoor Track 410</RoomName>
+        <RoomType>Track</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>612022</EventCode>
+        <EventName>Zumba</EventName>
+        <EventDescription>Zumba</EventDescription>
+        <EventType>12</EventType>
+        <MeetingCode>612022</MeetingCode>
+        <MeetingName>Zumba</MeetingName>
+        <MeetingDesription>Zumba</MeetingDesription>
+        <GroupCode>13</GroupCode>
+        <GroupName>Rec Well</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>62069</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T17:05:00Z</StartDateTime>
+        <EndDateTime>2020-09-08T17:50:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>SERF</BuildingCode>
+        <SecondaryBuildingCode>1</SecondaryBuildingCode>
+        <BuildingName>Southeast Recreational Facility</BuildingName>
+        <LevelCode>(none)</LevelCode>
+        <LevelName>(none)</LevelName>
+        <RoomCode>410</RoomCode>
+        <SecondaryRoomCode>35</SecondaryRoomCode>
+        <RoomName>Indoor Track 410</RoomName>
+        <RoomType>Track</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>612132</EventCode>
+        <EventName>Tabata</EventName>
+        <EventDescription>Tabata</EventDescription>
+        <EventType>12</EventType>
+        <MeetingCode>612132</MeetingCode>
+        <MeetingName>Tabata</MeetingName>
+        <MeetingDesription>Tabata</MeetingDesription>
+        <GroupCode>13</GroupCode>
+        <GroupName>Rec Well</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>62069</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T20:30:00Z</StartDateTime>
+        <EndDateTime>2020-09-08T21:00:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>SERF</BuildingCode>
+        <SecondaryBuildingCode>1</SecondaryBuildingCode>
+        <BuildingName>Southeast Recreational Facility</BuildingName>
+        <LevelCode>(none)</LevelCode>
+        <LevelName>(none)</LevelName>
+        <RoomCode>410</RoomCode>
+        <SecondaryRoomCode>35</SecondaryRoomCode>
+        <RoomName>Indoor Track 410</RoomName>
+        <RoomType>Track</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>612236</EventCode>
+        <EventName>CXWORX</EventName>
+        <EventDescription>CXWORX</EventDescription>
+        <EventType>12</EventType>
+        <MeetingCode>612236</MeetingCode>
+        <MeetingName>CXWORX</MeetingName>
+        <MeetingDesription>CXWORX</MeetingDesription>
+        <GroupCode>13</GroupCode>
+        <GroupName>Rec Well</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>62069</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T21:15:00Z</StartDateTime>
+        <EndDateTime>2020-09-08T21:45:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>SERF</BuildingCode>
+        <SecondaryBuildingCode>1</SecondaryBuildingCode>
+        <BuildingName>Southeast Recreational Facility</BuildingName>
+        <LevelCode>(none)</LevelCode>
+        <LevelName>(none)</LevelName>
+        <RoomCode>410</RoomCode>
+        <SecondaryRoomCode>35</SecondaryRoomCode>
+        <RoomName>Indoor Track 410</RoomName>
+        <RoomType>Track</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>612393</EventCode>
+        <EventName>Group Strength</EventName>
+        <EventDescription>Group Strength</EventDescription>
+        <EventType>12</EventType>
+        <MeetingCode>612393</MeetingCode>
+        <MeetingName>Group Strength</MeetingName>
+        <MeetingDesription>Group Strength</MeetingDesription>
+        <GroupCode>13</GroupCode>
+        <GroupName>Rec Well</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>62069</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T22:00:00Z</StartDateTime>
+        <EndDateTime>2020-09-08T23:00:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>SERF</BuildingCode>
+        <SecondaryBuildingCode>1</SecondaryBuildingCode>
+        <BuildingName>Southeast Recreational Facility</BuildingName>
+        <LevelCode>(none)</LevelCode>
+        <LevelName>(none)</LevelName>
+        <RoomCode>410</RoomCode>
+        <SecondaryRoomCode>35</SecondaryRoomCode>
+        <RoomName>Indoor Track 410</RoomName>
+        <RoomType>Track</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>612573</EventCode>
+        <EventName>Zumba</EventName>
+        <EventDescription>Zumba</EventDescription>
+        <EventType>12</EventType>
+        <MeetingCode>612573</MeetingCode>
+        <MeetingName>Zumba</MeetingName>
+        <MeetingDesription>Zumba</MeetingDesription>
+        <GroupCode>13</GroupCode>
+        <GroupName>Rec Well</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>62069</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T23:15:00Z</StartDateTime>
+        <EndDateTime>2020-09-09T00:15:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>SERF</BuildingCode>
+        <SecondaryBuildingCode>1</SecondaryBuildingCode>
+        <BuildingName>Southeast Recreational Facility</BuildingName>
+        <LevelCode>(none)</LevelCode>
+        <LevelName>(none)</LevelName>
+        <RoomCode>410</RoomCode>
+        <SecondaryRoomCode>35</SecondaryRoomCode>
+        <RoomName>Indoor Track 410</RoomName>
+        <RoomType>Track</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>612704</EventCode>
+        <EventName>Barre</EventName>
+        <EventDescription>Barre</EventDescription>
+        <EventType>12</EventType>
+        <MeetingCode>612704</MeetingCode>
+        <MeetingName>Barre</MeetingName>
+        <MeetingDesription>Barre</MeetingDesription>
+        <GroupCode>13</GroupCode>
+        <GroupName>Rec Well</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>62069</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-09T00:30:00Z</StartDateTime>
+        <EndDateTime>2020-09-09T01:30:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>SERF</BuildingCode>
+        <SecondaryBuildingCode>1</SecondaryBuildingCode>
+        <BuildingName>Southeast Recreational Facility</BuildingName>
+        <LevelCode>(none)</LevelCode>
+        <LevelName>(none)</LevelName>
+        <RoomCode>410</RoomCode>
+        <SecondaryRoomCode>35</SecondaryRoomCode>
+        <RoomName>Indoor Track 410</RoomName>
+        <RoomType>Track</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>612323</EventCode>
+        <EventName>Teambeats</EventName>
+        <EventDescription>Teambeats</EventDescription>
+        <EventType>12</EventType>
+        <MeetingCode>612323</MeetingCode>
+        <MeetingName>Teambeats</MeetingName>
+        <MeetingDesription>Teambeats</MeetingDesription>
+        <GroupCode>13</GroupCode>
+        <GroupName>Rec Well</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>62069</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T21:45:00Z</StartDateTime>
+        <EndDateTime>2020-09-08T22:35:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>NICK</BuildingCode>
+        <SecondaryBuildingCode>40</SecondaryBuildingCode>
+        <BuildingName>Nicholas Recreation Center</BuildingName>
+        <LevelCode>Nick Level 2</LevelCode>
+        <LevelName>Nick Level 2</LevelName>
+        <RoomCode>210</RoomCode>
+        <SecondaryRoomCode>601</SecondaryRoomCode>
+        <RoomName>Flex Deck</RoomName>
+        <RoomType>Fitness</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>611762</EventCode>
+        <EventName>Yoga</EventName>
+        <EventDescription>Yoga</EventDescription>
+        <EventType>12</EventType>
+        <MeetingCode>611762</MeetingCode>
+        <MeetingName>Yoga</MeetingName>
+        <MeetingDesription>Yoga</MeetingDesription>
+        <GroupCode>13</GroupCode>
+        <GroupName>Rec Well</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>62069</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T12:00:00Z</StartDateTime>
+        <EndDateTime>2020-09-08T12:45:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>NICK</BuildingCode>
+        <SecondaryBuildingCode>40</SecondaryBuildingCode>
+        <BuildingName>Nicholas Recreation Center</BuildingName>
+        <LevelCode>Nick Level 2</LevelCode>
+        <LevelName>Nick Level 2</LevelName>
+        <RoomCode>238</RoomCode>
+        <SecondaryRoomCode>604</SecondaryRoomCode>
+        <RoomName>Momentum Studio</RoomName>
+        <RoomType>Studio</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>612201</EventCode>
+        <EventName>Powerflow</EventName>
+        <EventDescription>Powerflow</EventDescription>
+        <EventType>12</EventType>
+        <MeetingCode>612201</MeetingCode>
+        <MeetingName>Powerflow</MeetingName>
+        <MeetingDesription>Powerflow</MeetingDesription>
+        <GroupCode>13</GroupCode>
+        <GroupName>Rec Well</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>62069</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T21:00:00Z</StartDateTime>
+        <EndDateTime>2020-09-08T21:45:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>NICK</BuildingCode>
+        <SecondaryBuildingCode>40</SecondaryBuildingCode>
+        <BuildingName>Nicholas Recreation Center</BuildingName>
+        <LevelCode>Nick Level 2</LevelCode>
+        <LevelName>Nick Level 2</LevelName>
+        <RoomCode>238</RoomCode>
+        <SecondaryRoomCode>604</SecondaryRoomCode>
+        <RoomName>Momentum Studio</RoomName>
+        <RoomType>Studio</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>612429</EventCode>
+        <EventName>Powerflow</EventName>
+        <EventDescription>Powerflow</EventDescription>
+        <EventType>12</EventType>
+        <MeetingCode>612429</MeetingCode>
+        <MeetingName>Powerflow</MeetingName>
+        <MeetingDesription>Powerflow</MeetingDesription>
+        <GroupCode>13</GroupCode>
+        <GroupName>Rec Well</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>62069</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T22:00:00Z</StartDateTime>
+        <EndDateTime>2020-09-08T23:00:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>NICK</BuildingCode>
+        <SecondaryBuildingCode>40</SecondaryBuildingCode>
+        <BuildingName>Nicholas Recreation Center</BuildingName>
+        <LevelCode>Nick Level 2</LevelCode>
+        <LevelName>Nick Level 2</LevelName>
+        <RoomCode>238</RoomCode>
+        <SecondaryRoomCode>604</SecondaryRoomCode>
+        <RoomName>Momentum Studio</RoomName>
+        <RoomType>Studio</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>610719</EventCode>
+        <EventName>Soccer Rules Clinic</EventName>
+        <EventDescription>Soccer Rules Clinic</EventDescription>
+        <EventType>1</EventType>
+        <MeetingCode>610719</MeetingCode>
+        <MeetingName>Soccer Rules Clinic</MeetingName>
+        <MeetingDesription>Soccer Rules Clinic</MeetingDesription>
+        <GroupCode>13</GroupCode>
+        <GroupName>Rec Well</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>61754</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-09T00:00:00Z</StartDateTime>
+        <EndDateTime>2020-09-09T03:00:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>NICK</BuildingCode>
+        <SecondaryBuildingCode>40</SecondaryBuildingCode>
+        <BuildingName>Nicholas Recreation Center</BuildingName>
+        <LevelCode>Nick Level 2</LevelCode>
+        <LevelName>Nick Level 2</LevelName>
+        <RoomCode>238</RoomCode>
+        <SecondaryRoomCode>604</SecondaryRoomCode>
+        <RoomName>Momentum Studio</RoomName>
+        <RoomType>Studio</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>602031</EventCode>
+        <EventName>Kines 104</EventName>
+        <EventDescription>Kines 104</EventDescription>
+        <EventType>9</EventType>
+        <MeetingCode>602031</MeetingCode>
+        <MeetingName>Kines 104</MeetingName>
+        <MeetingDesription>Kines 104</MeetingDesription>
+        <GroupCode>5</GroupCode>
+        <GroupName>Kinesiology</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>61057</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T17:05:00Z</StartDateTime>
+        <EndDateTime>2020-09-08T17:55:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>NICK</BuildingCode>
+        <SecondaryBuildingCode>40</SecondaryBuildingCode>
+        <BuildingName>Nicholas Recreation Center</BuildingName>
+        <LevelCode>Nick Lower Level</LevelCode>
+        <LevelName>Nick Lower Level</LevelName>
+        <RoomCode>LL155-1</RoomCode>
+        <SecondaryRoomCode>642</SecondaryRoomCode>
+        <RoomName>Pool - E/W 25yd Lane 1</RoomName>
+        <RoomType>Pool</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>602032</EventCode>
+        <EventName>Kines 104</EventName>
+        <EventDescription>Kines 104</EventDescription>
+        <EventType>9</EventType>
+        <MeetingCode>602032</MeetingCode>
+        <MeetingName>Kines 104</MeetingName>
+        <MeetingDesription>Kines 104</MeetingDesription>
+        <GroupCode>5</GroupCode>
+        <GroupName>Kinesiology</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>61057</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T17:05:00Z</StartDateTime>
+        <EndDateTime>2020-09-08T17:55:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>NICK</BuildingCode>
+        <SecondaryBuildingCode>40</SecondaryBuildingCode>
+        <BuildingName>Nicholas Recreation Center</BuildingName>
+        <LevelCode>Nick Lower Level</LevelCode>
+        <LevelName>Nick Lower Level</LevelName>
+        <RoomCode>LL155-2</RoomCode>
+        <SecondaryRoomCode>643</SecondaryRoomCode>
+        <RoomName>Pool - E/W 25yd Lane 2</RoomName>
+        <RoomType>Pool</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>602711</EventCode>
+        <EventName>Athletics Swim &amp; Dive Practices</EventName>
+        <EventDescription>Athletics Swim &amp; Dive Practices</EventDescription>
+        <EventType>29</EventType>
+        <MeetingCode>602711</MeetingCode>
+        <MeetingName>Athletics Swim &amp; Dive Practices</MeetingName>
+        <MeetingDesription>Athletics Swim &amp; Dive Practices</MeetingDesription>
+        <GroupCode>301</GroupCode>
+        <GroupName>Athletics</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>61346</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T11:00:00Z</StartDateTime>
+        <EndDateTime>2020-09-08T16:00:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>NICK</BuildingCode>
+        <SecondaryBuildingCode>40</SecondaryBuildingCode>
+        <BuildingName>Nicholas Recreation Center</BuildingName>
+        <LevelCode>Nick Lower Level</LevelCode>
+        <LevelName>Nick Lower Level</LevelName>
+        <RoomCode>LL155-1-20</RoomCode>
+        <SecondaryRoomCode>662</SecondaryRoomCode>
+        <RoomName>Pool - E/W 25yd Lanes 1-20</RoomName>
+        <RoomType>Pool</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>603440</EventCode>
+        <EventName>Athletics Swim &amp; Dive Practices</EventName>
+        <EventDescription>Athletics Swim &amp; Dive Practices</EventDescription>
+        <EventType>29</EventType>
+        <MeetingCode>603440</MeetingCode>
+        <MeetingName>Athletics Swim &amp; Dive Practices</MeetingName>
+        <MeetingDesription>Athletics Swim &amp; Dive Practices</MeetingDesription>
+        <GroupCode>301</GroupCode>
+        <GroupName>Athletics</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>61346</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T19:00:00Z</StartDateTime>
+        <EndDateTime>2020-09-08T22:00:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>NICK</BuildingCode>
+        <SecondaryBuildingCode>40</SecondaryBuildingCode>
+        <BuildingName>Nicholas Recreation Center</BuildingName>
+        <LevelCode>Nick Lower Level</LevelCode>
+        <LevelName>Nick Lower Level</LevelName>
+        <RoomCode>LL155-1-20</RoomCode>
+        <SecondaryRoomCode>662</SecondaryRoomCode>
+        <RoomName>Pool - E/W 25yd Lanes 1-20</RoomName>
+        <RoomType>Pool</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>607416</EventCode>
+        <EventName>Open Rec</EventName>
+        <EventDescription>Open Rec</EventDescription>
+        <EventType>28</EventType>
+        <MeetingCode>607416</MeetingCode>
+        <MeetingName>Open Rec</MeetingName>
+        <MeetingDesription>Open Rec</MeetingDesription>
+        <GroupCode>13</GroupCode>
+        <GroupName>Rec Well</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>61575</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T11:00:00Z</StartDateTime>
+        <EndDateTime>2020-09-09T05:00:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>NICK</BuildingCode>
+        <SecondaryBuildingCode>40</SecondaryBuildingCode>
+        <BuildingName>Nicholas Recreation Center</BuildingName>
+        <LevelCode>Nick Level 4</LevelCode>
+        <LevelName>Nick Level 4</LevelName>
+        <RoomCode>425</RoomCode>
+        <SecondaryRoomCode>627</SecondaryRoomCode>
+        <RoomName>Racquetball Court 1</RoomName>
+        <RoomType>Racquetball Court</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>607417</EventCode>
+        <EventName>Open Rec</EventName>
+        <EventDescription>Open Rec</EventDescription>
+        <EventType>28</EventType>
+        <MeetingCode>607417</MeetingCode>
+        <MeetingName>Open Rec</MeetingName>
+        <MeetingDesription>Open Rec</MeetingDesription>
+        <GroupCode>13</GroupCode>
+        <GroupName>Rec Well</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>61575</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T11:00:00Z</StartDateTime>
+        <EndDateTime>2020-09-09T05:00:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>NICK</BuildingCode>
+        <SecondaryBuildingCode>40</SecondaryBuildingCode>
+        <BuildingName>Nicholas Recreation Center</BuildingName>
+        <LevelCode>Nick Level 4</LevelCode>
+        <LevelName>Nick Level 4</LevelName>
+        <RoomCode>429</RoomCode>
+        <SecondaryRoomCode>628</SecondaryRoomCode>
+        <RoomName>Racquetball Court 2</RoomName>
+        <RoomType>Racquetball Court</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>611874</EventCode>
+        <EventName>Rhythm Ride</EventName>
+        <EventDescription>Rhythm Ride</EventDescription>
+        <EventType>12</EventType>
+        <MeetingCode>611874</MeetingCode>
+        <MeetingName>Rhythm Ride</MeetingName>
+        <MeetingDesription>Rhythm Ride</MeetingDesription>
+        <GroupCode>13</GroupCode>
+        <GroupName>Rec Well</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>62069</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T12:15:00Z</StartDateTime>
+        <EndDateTime>2020-09-08T13:00:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>NICK</BuildingCode>
+        <SecondaryBuildingCode>40</SecondaryBuildingCode>
+        <BuildingName>Nicholas Recreation Center</BuildingName>
+        <LevelCode>Nick Lower Level</LevelCode>
+        <LevelName>Nick Lower Level</LevelName>
+        <RoomCode>LL175</RoomCode>
+        <SecondaryRoomCode>583</SecondaryRoomCode>
+        <RoomName>Revolution Studio</RoomName>
+        <RoomType>Studio</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>612273</EventCode>
+        <EventName>Cycling</EventName>
+        <EventDescription>Cycling</EventDescription>
+        <EventType>12</EventType>
+        <MeetingCode>612273</MeetingCode>
+        <MeetingName>Cycling</MeetingName>
+        <MeetingDesription>Cycling</MeetingDesription>
+        <GroupCode>13</GroupCode>
+        <GroupName>Rec Well</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>62069</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T21:30:00Z</StartDateTime>
+        <EndDateTime>2020-09-08T22:15:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>NICK</BuildingCode>
+        <SecondaryBuildingCode>40</SecondaryBuildingCode>
+        <BuildingName>Nicholas Recreation Center</BuildingName>
+        <LevelCode>Nick Lower Level</LevelCode>
+        <LevelName>Nick Lower Level</LevelName>
+        <RoomCode>LL175</RoomCode>
+        <SecondaryRoomCode>583</SecondaryRoomCode>
+        <RoomName>Revolution Studio</RoomName>
+        <RoomType>Studio</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>612536</EventCode>
+        <EventName>Cycle Strength</EventName>
+        <EventDescription>Cycle Strength</EventDescription>
+        <EventType>12</EventType>
+        <MeetingCode>612536</MeetingCode>
+        <MeetingName>Cycle Strength</MeetingName>
+        <MeetingDesription>Cycle Strength</MeetingDesription>
+        <GroupCode>13</GroupCode>
+        <GroupName>Rec Well</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>62069</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T22:30:00Z</StartDateTime>
+        <EndDateTime>2020-09-08T23:30:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>NICK</BuildingCode>
+        <SecondaryBuildingCode>40</SecondaryBuildingCode>
+        <BuildingName>Nicholas Recreation Center</BuildingName>
+        <LevelCode>Nick Lower Level</LevelCode>
+        <LevelName>Nick Lower Level</LevelName>
+        <RoomCode>LL175</RoomCode>
+        <SecondaryRoomCode>583</SecondaryRoomCode>
+        <RoomName>Revolution Studio</RoomName>
+        <RoomType>Studio</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>614327</EventCode>
+        <EventName>Rec Well Manager Training</EventName>
+        <EventDescription>Rec Well Manager Training</EventDescription>
+        <EventType>1</EventType>
+        <MeetingCode>614327</MeetingCode>
+        <MeetingName>Rec Well Manager Training</MeetingName>
+        <MeetingDesription>Rec Well Manager Training</MeetingDesription>
+        <GroupCode>13</GroupCode>
+        <GroupName>Rec Well</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>61748</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>19</Status>
+        <StatusType>-14</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-09T00:00:00Z</StartDateTime>
+        <EndDateTime>2020-09-09T02:00:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>Lathrop</BuildingCode>
+        <SecondaryBuildingCode>5</SecondaryBuildingCode>
+        <BuildingName>Lathrop Hall</BuildingName>
+        <LevelCode>(none)</LevelCode>
+        <LevelName>(none)</LevelName>
+        <RoomCode>349</RoomCode>
+        <SecondaryRoomCode>280</SecondaryRoomCode>
+        <RoomName>Room 349</RoomName>
+        <RoomType>(none)</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>607168</EventCode>
+        <EventName>Open Courts Available</EventName>
+        <EventDescription>Open Courts Available</EventDescription>
+        <EventType>28</EventType>
+        <MeetingCode>607168</MeetingCode>
+        <MeetingName>Open Courts Available</MeetingName>
+        <MeetingDesription>Open Courts Available</MeetingDesription>
+        <GroupCode>13</GroupCode>
+        <GroupName>Rec Well</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>44324</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>1</Status>
+        <StatusType>-12</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T11:15:00Z</StartDateTime>
+        <EndDateTime>2020-09-09T01:00:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <LocationType>ROOM</LocationType>
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>NTS</BuildingCode>
+        <SecondaryBuildingCode>4</SecondaryBuildingCode>
+        <BuildingName>Nielsen Tennis Stadium</BuildingName>
+        <LevelCode>(none)</LevelCode>
+        <LevelName>(none)</LevelName>
+        <RoomCode>ORec</RoomCode>
+        <SecondaryRoomCode>373</SecondaryRoomCode>
+        <RoomName>Open Rec</RoomName>
+        <RoomType>(none)</RoomType>
+        <RoomCapacity>0</RoomCapacity>
+      </Event>
+      <Event>
+        <EventCode>612984</EventCode>
+        <EventName>Marching Band Practice</EventName>
+        <EventDescription>Marching Band Practice</EventDescription>
+        <EventType>9</EventType>
+        <MeetingCode>612984</MeetingCode>
+        <MeetingName>Marching Band Practice</MeetingName>
+        <MeetingDesription>Marching Band Practice</MeetingDesription>
+        <GroupCode>553</GroupCode>
+        <GroupName>School of Music</GroupName>
+        <IsPostable>true</IsPostable>
+        <IsExhibit>false</IsExhibit>
+        <SecondaryEventCode>62100</SecondaryEventCode>
+        <SecondaryEventName />
+        <Status>11</Status>
+        <StatusType>-14</StatusType>
+        <IsPrivate>false</IsPrivate>
+        <StartDateTime>2020-09-08T20:30:00Z</StartDateTime>
+        <EndDateTime>2020-09-08T22:30:00Z</EndDateTime>
+        <IsAllDay>false</IsAllDay>
+        <LocationCode />
+        <LocationName />
+        <PropertyCode />
+        <PropertyName />
+        <BuildingCode>NW</BuildingCode>
+        <SecondaryBuildingCode>7</SecondaryBuildingCode>
+        <BuildingName>Near West Fields</BuildingName>
+        <RoomCode>Band</RoomCode>
+        <SecondaryRoomCode>575</SecondaryRoomCode>
+        <RoomName>Band Field</RoomName>
+      </Event>
+    </Items>
